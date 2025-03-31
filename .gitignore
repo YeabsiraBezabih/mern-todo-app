@@ -1,0 +1,18 @@
+# Node Modules
+node_modules/
+todo-frontend/node_modules/
+backend/node_modules/
+
+# Environment Variables
+.env
+todo-frontend/.env
+backend/.env
+
+# Build output folders
+todo-frontend/dist/
+backend/dist/  # If you create a build for backend later
+
+# IDE related files (optional, depending on your IDE)
+.idea/
+.vscode/
+*.log
